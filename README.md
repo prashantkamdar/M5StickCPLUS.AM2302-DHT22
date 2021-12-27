@@ -9,3 +9,6 @@ Install the [Adafruit library for DHT sensors](https://learn.adafruit.com/dht/co
 Connect the sensor as shown in the picture below.
 
 Flash!
+
+![1](1.jpg?raw=true)
+![2](2.jpg?raw=true)
